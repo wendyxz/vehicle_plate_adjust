@@ -1,5 +1,5 @@
 # Vehicle Crop + Plate Adjust Script
-Script that batch crops, resized traffic images and adjusts plate labels to reflect change in image reference
+Script that batch crops vehicles from traffic images, resizes, then adjusts plate labels to reflect change in image reference from traffic to vehicle
 
 ## Technologies
 Project is created with:
