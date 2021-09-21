@@ -7,3 +7,6 @@ Project is created with:
 • Python 3.7
 
 • OpenCV 2
+
+## Requires:
+• traffic images are labelled in YOLO format
